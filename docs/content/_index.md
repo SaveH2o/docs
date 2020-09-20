@@ -23,13 +23,11 @@ The vast majority of people only identify that there is a water leak in their ho
 ![h2o-1-usb-r1](https://user-images.githubusercontent.com/86032/93647669-52c6b980-f9df-11ea-9592-127e746933c8.jpg)
 
 <--->
-Cyclos and Business Amplifiers form **bAmpli Circuits**.
-
-For example, the following circuit shows a bAmpli providing investments to leverage three other distinct Cyclos. It can represent an **Angel** investing in **Startups**, for example.
-
-In this case, when the Angel sells its “product”, the entire Startup is negotiated, disappearing from the diagram and fattening the Angel's net profit!
-
-The bAmpli circuit allows analyzing each Cyclo separately.
+- Water Leak Alert for water flow sensors.
+- Monitors the speed of water in real time.
+- Support several flow meters, like the [YF-S201](https://www.aliexpress.com/item/32958118358.html) 1-30L/min Water Flow meter with Hall Sensor 1/2" 2.0MPa.
+- Decide about leakage conditions according customized configuration.
+- Fully configurable through an USB port connected to a computer.
 
 {{< /columns >}}
 
