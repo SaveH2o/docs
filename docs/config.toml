@@ -1,4 +1,4 @@
-baseURL = "https://bampli.github.io/docs/"
+baseURL = "https://saveh2o.github.io/docs/"
 languageCode = "en-us"
-title = "bAmpli v0.05-05"
+title = "SaveH2o v0.03"
 theme = "book"
