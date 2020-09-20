@@ -10,10 +10,19 @@ bookToc: false
 **Saving water saves lives.**
 {{< /hint >}}
 
+Products to alert consumers about the possibility of unexpected water leakages.
+
+### Leak warning
+
+The vast majority of people only identify that there is a water leak in their home or business when the bill arrives. They usually pay a high price for that. With a typical occurrence of twice a year, losses can reach more than a thousand dollars. In larger places like farms, there are many meters of pipes across the land, facilitating the creation of leaks, through roots and other uses of the terrain and making it difficult to locate leaks.
+
+
+## H2o-1-usb
+
 {{< columns >}}
+![h2o-1-usb-r1](https://user-images.githubusercontent.com/86032/93647669-52c6b980-f9df-11ea-9592-127e746933c8.jpg)
 
-## bAmpli Circuits
-
+<--->
 Cyclos and Business Amplifiers form **bAmpli Circuits**.
 
 For example, the following circuit shows a bAmpli providing investments to leverage three other distinct Cyclos. It can represent an **Angel** investing in **Startups**, for example.
@@ -22,11 +31,8 @@ In this case, when the Angel sells its “product”, the entire Startup is nego
 
 The bAmpli circuit allows analyzing each Cyclo separately.
 
-<--->
-![Y4 4 circ anjo bw](https://user-images.githubusercontent.com/86032/79048410-3f731f00-7bf3-11ea-91a7-262ae1aadc67.png)
-
 {{< /columns >}}
 
 {{< hint warning >}}
-**Information about this project is published in [Business Amplifier](https://www.amazon.com/Business-Amplifier-M-Sc-Motta-Lopes/dp/B083XGK14Q), also [e-book](https://www.amazon.com/Business-Amplifier-Jose-Motta-Lopes-ebook-dp-B086L6V6QY/dp/B086L6V6QY/) and [Amplificador de Negócios](https://www.amazon.com/M-Sc-Jose-Motta-Lopes/dp/8592301009) in Portuguese.**
+**More information about this project?**
 {{< /hint >}}
