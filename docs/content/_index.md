@@ -30,7 +30,7 @@ The vast majority of people only identify that there is a water leak in their ho
 - Fully configurable through an USB port connected to a computer.
 - A serial port provide a log stream with real time water speed for testing and supervision.
 - Powered by the USB port.
-- Open source [software](https://github.com/SaveH2o/arduino) is available.
+- Open source [software](https://github.com/SaveH2o/arduino) available.
 - Only needs [Arduino IDE](https://www.arduino.cc/en/Main/Software).
 
 {{< /columns >}}
