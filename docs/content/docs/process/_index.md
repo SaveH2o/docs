@@ -2,6 +2,7 @@
 title: The Process
 weight: 40
 bookToc: false
+bookHidden: true
 ---
 # The Process
 

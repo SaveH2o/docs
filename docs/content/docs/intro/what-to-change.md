@@ -1,6 +1,7 @@
 ---
 title: What to change?
 weight: 10
+bookHidden: true
 ---
 # What to change?
 

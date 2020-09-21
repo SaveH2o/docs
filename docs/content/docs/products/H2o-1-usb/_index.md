@@ -1,5 +1,5 @@
 ---
-title: SaveH2o
+title: H2o-1-usb
 type: docs
 bookToc: false
 ---
@@ -36,5 +36,5 @@ The vast majority of people only identify a water leak in their home or business
 {{< /columns >}}
 
 {{< hint warning >}}
-**Did you like it? Need more information about the products? Check it [here](/docs/docs/products/)**
+**Did you like it? Buy it [here]().**
 {{< /hint >}}
