@@ -36,5 +36,5 @@ The vast majority of people only identify a water leak in their home or business
 {{< /columns >}}
 
 {{< hint warning >}}
-**Did you like it? Buy it [here]().**
+**Did you like it? Buy it [here (TODO)]().**
 {{< /hint >}}
