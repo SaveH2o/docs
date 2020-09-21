@@ -1,6 +1,7 @@
 ---
 title: Cyclo Graph
-weight: 10
+weight: 20
+bookHidden: true
 ---
 # Cyclo Graph
 

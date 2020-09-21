@@ -2,6 +2,7 @@
 title: "Business Amplifier"
 bookFlatSection: false
 weight: 60
+bookHidden: true
 ---
 
 ## bAmpli: Business Amplifier

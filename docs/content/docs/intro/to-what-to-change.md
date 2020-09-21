@@ -1,6 +1,7 @@
 ---
 title: To what to change?
 weight: 20
+bookHidden: true
 ---
 # To what to change?
 

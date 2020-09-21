@@ -1,7 +1,8 @@
 ---
-title: Times of Gain
+title: Time
 weight: 5
 bookToc: false
+bookHidden: true
 ---
 # Times of Gain
 
