@@ -17,7 +17,7 @@ weight: 30
 The H2o-1-usb is **ready for manufacturing**, based on the following components:
 
 - **1. CPU board**: Pro mini Atmega328P
-- **2. SB serial converter**: USB 2.0 to UART TTL Serial Converter
+- **2. USB serial converter**: USB 2.0 to UART TTL Serial Converter
 - **3. Active Buzzer**: 5V DC with 85 dB noise output
 
 ## 1. Pro mini Atmega328P
