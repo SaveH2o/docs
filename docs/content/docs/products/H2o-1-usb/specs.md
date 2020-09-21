@@ -14,12 +14,13 @@ weight: 30
 - Hardware: h2o-1-usb-r1
 - Firmware: h2o-1-v0.032 available on [github](https://github.com/SaveH2o/arduino).
 
-The device is ready for manufacturing, based on the following components:
+The H2o-1-usb is **ready for manufacturing**, based on the following components:
 
-- **CPU board**: Pro mini Atmega328P
-- **USB serial converter**: USB 2.0 to UART TTL Serial Converter
+- **1. CPU board**: Pro mini Atmega328P
+- **2. SB serial converter**: USB 2.0 to UART TTL Serial Converter
+- **3. Active Buzzer**: 5V DC with 85 dB noise output
 
-## Pro mini Atmega328P
+## 1. Pro mini Atmega328P
 
 - [Pro Mini 328 Mini ATMEGA328 3.3V 8MHz 5V 16Mhz](https://pt.aliexpress.com/item/32672852945.html).
 - Arduino Compatible Nano CP2102 FT232RL.
@@ -54,14 +55,25 @@ The device is ready for manufacturing, based on the following components:
 
 ![image](https://user-images.githubusercontent.com/86032/89669657-3bf85780-d8b6-11ea-81cb-c118255e6033.png)
 
-## USB 2.0 to UART TTL Serial Converter
+## 2. USB 2.0 to UART TTL Serial Converter
 
 - CP2102 USB 2.0 to UART TTL 5PIN Module Serial Converter
 - Many [compatible products](https://pt.aliexpress.com/item/32650176124.html) available.
 
 ![image](https://user-images.githubusercontent.com/86032/93827472-b51df500-fc3f-11ea-8a16-edda6fe1f689.png)
 
-## Connections
+## 3. Active Buzzer
+
+- Operating voltage: 4 to 8 VDC
+- Operating current: 30mA
+- Sound output (10cm): 85dB
+- Frequency: 2300±300 Hz
+- Operating temperature: -27 to +70 °C
+- Material: ABS
+- Color: Black
+- Dimensions: 11,8 x 9mm
+
+## Connections between components
 
 ### Water Flow Sensor
 
