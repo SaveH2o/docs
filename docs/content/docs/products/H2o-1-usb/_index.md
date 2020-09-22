@@ -3,7 +3,7 @@ title: H2o-1-usb
 type: docs
 bookToc: false
 ---
-## SaveH2o
+# SaveH2o
 
 {{< hint info >}}
 **Saving water saves lives.**
