@@ -10,7 +10,7 @@ bookToc: false
 **Saving water saves lives.**
 {{< /hint >}}
 
-Products that alert residential and business consumers about unexpected water leakages.
+Products to alert residential and business consumers about unexpected water leakages.
 
 ## Water Leak Alert
 

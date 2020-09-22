@@ -2,13 +2,13 @@
 title: Specifications
 weight: 30
 ---
-# SaveH2o
+## SaveH2o
 
 {{< hint info >}}
 **Saving water saves lives.**
 {{< /hint >}}
 
-## H2o-1-usb
+# H2o-1-usb
 
 - Model: H2o-1-usb
 - Hardware: h2o-1-usb-r1

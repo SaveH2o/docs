@@ -3,14 +3,13 @@ title: H2o-1-usb
 type: docs
 bookToc: false
 ---
-
-# SaveH2o
+## SaveH2o
 
 {{< hint info >}}
 **Saving water saves lives.**
 {{< /hint >}}
 
-Products that alert residential and business consumers about unexpected water leakages.
+Products to alert residential and business consumers about unexpected water leakages.
 
 ## Water Leak Alert
 
