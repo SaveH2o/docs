@@ -76,7 +76,7 @@ If the water keep flowing, after non-stop count reaches a programmable count (*3
 
 ![image](https://user-images.githubusercontent.com/86032/93910478-85223080-fcd7-11ea-880d-b0dabf160154.png)
 
-The alarm is automatically reset after water flows stops for 60 seconds.
+The alarm is automatically reset after water flow stops for 60 seconds.
 
 ![image](https://user-images.githubusercontent.com/86032/93911225-81db7480-fcd8-11ea-96c2-0e1ba29c92eb.png)
 
