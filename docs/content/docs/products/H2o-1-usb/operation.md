@@ -57,7 +57,7 @@ The water flow sensor rotates based on the following angular speed:
    &=periodcount*4*4\mu s \\
    &=periodcount*16*10^{-6} \,s \\
 
-   frequency&=\frac{1}{periodtime} \,{Hz}
+   frequency&=\frac{1}{periodtime} \,Hz
 \end{aligned}
 {{< /katex >}}
 
