@@ -105,6 +105,6 @@ qualification as per AEC-Q100 grade 1.
 
 ### Converter
 
-- **Converter RX**: connected to CPU TX
-- **Converter TX**: connected to CPU RX
-- **Converter DTR**: connected to CPU PC6/RESET
+- **Converter RX**: connected to TXO (PD1/TXD)
+- **Converter TX**: connected to RXI (PD0/RXD)
+- **Converter DTR**: connected to DTR (PC6/RESET)
