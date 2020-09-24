@@ -1,5 +1,5 @@
 ---
-title: Specifications
+title: Specification
 weight: 30
 ---
 # SaveH2o
@@ -50,6 +50,20 @@ The H2o-1-usb is **ready for manufacturing**, based on the following components:
 - **SRAM**:	2 KB
 - **EEPROM**:	1 KB
 - **Clock Speed**:	8 MHz (3.3V versions) or 16 MHz (5V versions)
+
+#### Automotive Quality Grade
+The ATmega328P have been developed and manufactured according to the most stringent requirements of the international
+standard ISO-TS-16949. The quality and reliability of the ATmega328P have been verified during regular product
+qualification as per AEC-Q100 grade 1.
+
+#### Temperature Grade Identification for Automotive Products
+- Temperature: –40°C a +125°C
+- Temperature Identifier: Z
+- Full automotive temperature range
+
+#### Reliability for data retention failure:
+- <1 PPM over 20 years at 85°C
+- <1 PPM over 100 years at 25°C
 
 ### Schematics
 
