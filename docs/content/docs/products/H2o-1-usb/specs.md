@@ -103,7 +103,7 @@ qualification as per AEC-Q100 grade 1.
 - **Buzzer +**: connected to D7 (PD7/AIN1)
 - **Buzzer -**: connected to GND
 
-### CPU & Converter
+### Converter
 
 - **Converter RX**: connected to CPU TX
 - **Converter TX**: connected to CPU RX
