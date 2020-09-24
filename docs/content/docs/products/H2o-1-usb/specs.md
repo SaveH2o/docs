@@ -22,9 +22,9 @@ The H2o-1-usb is **ready for manufacturing**, based on the following components:
 
 ## 1. Pro mini Atmega328P
 
-- [Pro Mini 328 Mini ATMEGA328 3.3V 8MHz 5V 16Mhz](https://pt.aliexpress.com/item/32672852945.html).
+- **Pro Mini 328 Mini ATMEGA328 3.3V 8MHz 5V 16Mhz**
 - Arduino Compatible Nano CP2102 FT232RL.
-- Open hardware component, many vendors are available.
+- Open hardware component, many [vendors](https://pt.aliexpress.com/item/32672852945.html) are available.
 
 ![chip](https://store-cdn.arduino.cc/usa/catalog/product/cache/1/image/500x375/f8876a31b63532bbba4e781c30024a0a/e/0/e000025_iso.jpg)
 
@@ -78,6 +78,8 @@ qualification as per AEC-Q100 grade 1.
 
 ## 3. Active Buzzer
 
+![image](https://user-images.githubusercontent.com/86032/94206396-b5b2c780-fe9b-11ea-865f-53a6c31400f4.png)
+
 - Operating voltage: 4 to 8 VDC
 - Operating current: 30mA
 - Sound output (10cm): 85dB
@@ -86,6 +88,7 @@ qualification as per AEC-Q100 grade 1.
 - Material: ABS
 - Color: Black
 - Dimensions: 11,8 x 9mm
+- Many [vendors](https://www.filipeflop.com/produto/buzzer-ativo-5v/) available.
 
 ## Connections between components
 
