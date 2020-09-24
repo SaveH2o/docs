@@ -70,7 +70,7 @@ When water starts flowing, the screen shows samples, containing the periods of t
 
 ![image](https://user-images.githubusercontent.com/86032/93906287-64a3a780-fcd2-11ea-8994-4dd9c836be19.png)
 
-At the above log, the first *periodcount* shows 1.520.477.425. Multiplying it for 4 us, we conclude the water flow has stopped for 608 seconds. 
+At the above log, the first *periodcount* shows 1.520.477.425. Multiplying it for 4 us, we conclude the water flow has stopped for 6081 seconds. 
 
 If the water keep flowing, after non-stop count reaches a programmable count (*30* for alfa test), the alarm is activated with a continuous 3-short-beeps. The real time log keep showing *periodcounts*, as shown below.
 
