@@ -24,12 +24,12 @@ The vast majority of people only identify a water leak in their home or business
 
 <--->
 - Water Leak Alert powered by USB.
-- For real time water flow monitoring applications.
-- Support flow meters like [YF-S201](https://www.aliexpress.com/item/32958118358.html) 1-30 L/min Water Flow meter Hall Sensor 1/2" 2.0 MPa.
+- Real time water flow monitoring and alert.
+- Flow meters like [YF-S201](https://www.aliexpress.com/item/32958118358.html) 1-30 L/min Water Flow meter Hall Sensor 1/2" 2.0 MPa.
 - Decision about leakage conditions according customized configuration.
-- Fully configurable through an USB port connected to a computer.
+- Fully configurable through USB port.
 - Real time data logging of water flow for testing and supervisory activities.
-- Power and data delivered by an USB port.
+- Power and data delivered by USB port.
 - Open source [software](https://github.com/SaveH2o/arduino) available.
 - Use [Arduino IDE](https://www.arduino.cc/en/Main/Software) for custom development.
 
