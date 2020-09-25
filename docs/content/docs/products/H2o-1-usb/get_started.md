@@ -22,4 +22,4 @@ The summarized installation instructions follows:
 ![image](https://user-images.githubusercontent.com/86032/93824994-c6183780-fc3a-11ea-9731-699485272036.png)
 
 - Power the **H2o-1-usb** through an USB cable connected to a USB hub and/or computer.
-- If your application requires some customization, please install the [Arduino IDE](https://www.arduino.cc/en/Main/Software) that provides exceptional support. It is an essential tool for real time monitoring and supervisory systems.
+- If your application requires some customization, please install the [Arduino IDE](https://www.arduino.cc/en/Main/Software). It is an essential tool for development of real time monitoring and supervisory systems.
