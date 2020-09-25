@@ -28,8 +28,10 @@ The H2o-1-usb is **ready for manufacturing**, based on the following components:
 
 ![chip](https://store-cdn.arduino.cc/usa/catalog/product/cache/1/image/500x375/f8876a31b63532bbba4e781c30024a0a/e/0/e000025_iso.jpg)
 
+### References
+
 - **Specs**: https://store.arduino.cc/usa/arduino-pro-mini
-- **Getting Started:**: https://www.arduino.cc/en/Guide/ArduinoProMini
+- **Get Start:**: https://www.arduino.cc/en/Guide/ArduinoProMini
 - **Software**: https://www.arduino.cc/en/Main/Software
 - **Online IDE**: https://create.arduino.cc/editor
 

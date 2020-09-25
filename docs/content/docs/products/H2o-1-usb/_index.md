@@ -9,12 +9,19 @@ bookToc: false
 **Saving water saves lives.**
 {{< /hint >}}
 
-Products to alert residential and business consumers about unexpected water leakages.
+This **H2o-1-usb** alfa version passed the dry-tests at *developer's lab*.
 
-## Water Leak Alert
+The [manufacturing workflow](https://opsdog.com/categories/workflows/production) is expected as follows:
 
-The vast majority of people only identify a water leak in their home or business when the bill arrives. With a typical occurrence of twice a year, losses represents a high price for nature and economy. In larger places, several pipes across the field facilitate the leaks and make difficult their location.
+- **Product planning**: which product to make?
+- **Manufacturing Engineering**: which components/software to use?
+- **Manufacturing Assembly**: set up the facility for production runs.
+- **Quality Assurance**: inspecting products after manufacturing.
+- **Facility Management**: maintaining the manufacturing facility.
 
+We are at **Manufacturing Engineering** stage. After passed the [dry alfa tests](https://github.com/SaveH2o/arduino/issues/3) at the *developer's lab*, the **H2o-1-usb** prototype expects to be submitted to [wet alfa tests](https://github.com/SaveH2o/arduino/issues/4) at the *product's lab*.
+
+The objective is to measure/verify/certify product behaviour, evaluate market potential, and create reports to feedback developers and product managers at the **Manufacturing Assembly** phase.
 
 ## H2o-1-usb powered by USB
 
@@ -23,17 +30,17 @@ The vast majority of people only identify a water leak in their home or business
 
 <--->
 - Water Leak Alert powered by USB.
-- For real time water flow monitoring applications.
-- Support flow meters like [YF-S201](https://www.aliexpress.com/item/32958118358.html) 1-30 L/min Water Flow meter Hall Sensor 1/2" 2.0 MPa.
+- Real time water flow monitoring and alert.
+- Flow meters like [YF-S201](https://www.aliexpress.com/item/32958118358.html) 1-30 L/min Water Flow meter Hall Sensor 1/2" 2.0 MPa.
 - Decision about leakage conditions according customized configuration.
-- Fully configurable through an USB port connected to a computer.
+- Fully configurable through USB port.
 - Real time data logging of water flow for testing and supervisory activities.
-- Power and data delivered by an USB port.
+- Power and data delivered through USB port.
 - Open source [software](https://github.com/SaveH2o/arduino) available.
 - Use [Arduino IDE](https://www.arduino.cc/en/Main/Software) for custom development.
 
 {{< /columns >}}
 
 {{< hint warning >}}
-**Did you like it? Buy it [here (TODO)]().**
+**Did you like it? Get it [here]().**(TODO)
 {{< /hint >}}
