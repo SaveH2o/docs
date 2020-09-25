@@ -9,7 +9,7 @@ bookToc: false
 **Saving water saves lives.**
 {{< /hint >}}
 
-The **H2o-1-usb** alfa version passed the dry-tests at *developer's lab*.
+This is the **H2o-1-usb** alfa version that passed the dry-tests at *developer's lab*.
 
 The [manufacturing workflow](https://opsdog.com/categories/workflows/production) is expected as follows:
 
