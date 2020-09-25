@@ -9,7 +9,7 @@ bookToc: false
 **Saving water saves lives.**
 {{< /hint >}}
 
-This **H2o-1-usb** alfa version passed the dry-tests at *developer's lab*.
+The **H2o-1-usb** alfa version passed the dry-tests at *developer's lab*.
 
 The [manufacturing workflow](https://opsdog.com/categories/workflows/production) is expected as follows:
 
@@ -35,7 +35,7 @@ The objective is to measure/verify/certify product behaviour, evaluate market po
 - Decision about leakage conditions according customized configuration.
 - Fully configurable through USB port.
 - Real time data logging of water flow for testing and supervisory activities.
-- Power and data delivered through USB port.
+- Power and data delivered by USB port.
 - Open source [software](https://github.com/SaveH2o/arduino) available.
 - Use [Arduino IDE](https://www.arduino.cc/en/Main/Software) for custom development.
 
