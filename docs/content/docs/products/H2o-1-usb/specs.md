@@ -8,7 +8,7 @@ weight: 30
 **Saving water saves lives.**
 {{< /hint >}}
 
-# H2o-1-usb
+## H2o-1-usb
 
 - Model: H2o-1-usb
 - Hardware: h2o-1-usb-r1
