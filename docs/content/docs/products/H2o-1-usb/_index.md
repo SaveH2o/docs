@@ -11,6 +11,8 @@ bookToc: false
 
 This is the **H2o-1-usb** alfa version that passed the dry-tests at *developer's lab*.
 
+![image](https://user-images.githubusercontent.com/86032/94313136-90ce5b00-ff54-11ea-8fdb-2b06384a352f.png)
+
 The [manufacturing workflow](https://opsdog.com/categories/workflows/production) is expected as follows:
 
 - **Product planning**: which product to make?

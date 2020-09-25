@@ -105,7 +105,7 @@ qualification as per AEC-Q100 grade 1.
 - **Buzzer +**: connected to D7 (PD7/AIN1)
 - **Buzzer -**: connected to GND
 
-### Converter
+### Serial Converter
 
 - **Converter RX**: connected to TXO (PD1/TXD)
 - **Converter TX**: connected to RXI (PD0/RXD)
