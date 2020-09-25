@@ -9,22 +9,6 @@ bookToc: false
 **Saving water saves lives.**
 {{< /hint >}}
 
-This is the **H2o-1-usb** alfa version that passed the dry-tests at *developer's lab*.
-
-![image](https://user-images.githubusercontent.com/86032/94313136-90ce5b00-ff54-11ea-8fdb-2b06384a352f.png)
-
-The [manufacturing workflow](https://opsdog.com/categories/workflows/production) is expected as follows:
-
-- **Product planning**: which product to make?
-- **Manufacturing Engineering**: which components/software to use?
-- **Manufacturing Assembly**: set up the facility for production runs.
-- **Quality Assurance**: inspecting products after manufacturing.
-- **Facility Management**: maintaining the manufacturing facility.
-
-We are at **Manufacturing Engineering** stage. After passed the [dry alfa tests](https://github.com/SaveH2o/arduino/issues/3) at the *developer's lab*, the **H2o-1-usb** prototype expects to be submitted to [wet alfa tests](https://github.com/SaveH2o/arduino/issues/4) at the *product's lab*.
-
-The objective is to measure/verify/certify product behaviour, evaluate market potential, and create reports to feedback developers and product managers at the **Manufacturing Assembly** phase.
-
 ## H2o-1-usb powered by USB
 
 {{< columns >}}
@@ -42,6 +26,22 @@ The objective is to measure/verify/certify product behaviour, evaluate market po
 - Use [Arduino IDE](https://www.arduino.cc/en/Main/Software) for custom development.
 
 {{< /columns >}}
+
+This is the **H2o-1-usb** alfa version that passed the dry-tests at *developer's lab*.
+
+![image](https://user-images.githubusercontent.com/86032/94313136-90ce5b00-ff54-11ea-8fdb-2b06384a352f.png)
+
+The [manufacturing workflow](https://opsdog.com/categories/workflows/production) is expected as follows:
+
+- **Product planning**: which product to make?
+- **Manufacturing Engineering**: which components/software to use?
+- **Manufacturing Assembly**: set up the facility for production runs.
+- **Quality Assurance**: inspecting products after manufacturing.
+- **Facility Management**: maintaining the manufacturing facility.
+
+We are at **Manufacturing Engineering** stage. After passed the [dry alfa tests](https://github.com/SaveH2o/arduino/issues/3) at the *developer's lab*, the **H2o-1-usb** prototype expects to be submitted to [wet alfa tests](https://github.com/SaveH2o/arduino/issues/4) at the *product's lab*.
+
+The objective is to measure/verify/certify product behaviour, evaluate market potential, and create reports to feedback developers and product managers at the **Manufacturing Assembly** phase.
 
 {{< hint warning >}}
 **Did you like it? Get it [here]().**(TODO)
