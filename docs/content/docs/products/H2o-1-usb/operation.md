@@ -47,7 +47,7 @@ The water flow sensor rotates based on the following angular speed:
 
 ### Real time data logging 
 
-The **H2o-1-usb** is equipped with a serial port that issues a real time data logging of water flow speed for testing and supervisory activities. In order to activate it, run the *Arduino IDE* and launch the Serial Monitor:
+The **H2o-1-usb** is equipped with a serial port that issues a real time data logging of water flow speed for testing and supervisory activities. In order to activate it, run the [*Arduino IDE*](https://www.arduino.cc/en/Main/Software) and launch the Serial Monitor:
 - CTRL-SHIFT-M at the keyboard or
 - select *Tools | Serial Monitor* from the menu.
 
