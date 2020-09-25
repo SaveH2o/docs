@@ -18,7 +18,7 @@ weight: 20
 
 - 2-short-beeps: hello after power on reset
 - 3-short-beeps: leak alarm
-- led turn on together with buzzer beeps
+- led turns on together with buzzer beeps
 
 ### Programmable parameters
 
