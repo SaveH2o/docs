@@ -14,7 +14,7 @@ weight: 30
 - Hardware: h2o-1-usb-r1
 - Firmware: h2o-1-v0.032 available on [github](https://github.com/SaveH2o/arduino).
 
-The H2o-1-usb is **ready for manufacturing**, based on the following components:
+The H2o-1-usb is **ready for manufacturing**, with 3 components:
 
 - **1. CPU board**: Pro mini Atmega328P
 - **2. USB serial converter**: USB 2.0 to UART TTL Serial Converter
