@@ -38,7 +38,7 @@ The H2o-1-usb is **ready for manufacturing**, based on the following components:
 ### Technical Specs
 
 - **Microcontroller**:	ATmega328
-- **Board Power Supply**:	3.35 -12 V (3.3V model) or 5 - 12 V (5V model)
+- **Board Power Supply**:	3.35 -12 V (3.3V) or 5 - 12 V (5V)
 - **Circuit Operating Voltage**:	3.3V or 5V (depending on model)
 - **Digital I/O Pins**:	14
 - **PWM Pins**:	6
